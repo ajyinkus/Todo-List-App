@@ -1,0 +1,33 @@
+#todo-form{
+    padding: .5rem;
+}
+
+#newTodo-input{
+    margin: .5rem;
+    border-radius: .2rem;
+    border: solid 2px green;
+    padding: .5rem;
+
+}
+
+button{
+    padding: .5rem;
+    border-radius: .3rem;
+    cursor: pointer;
+    border: solid 2px green;
+    color: aliceblue;
+    font-family: Trebuchet;
+    font-size: 1rem;
+    background-color: yellowgreen;
+
+}
+
+button:hover {
+color: gray ;
+
+}
+button:focus{
+    color: aquamarine;
+}
+
+
